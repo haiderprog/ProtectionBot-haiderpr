@@ -1,23 +1,26 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+     
+         
     ----------------------------------------------------------------- 
 
 
-Welcome to your Node.js project on Cloud9 IDE!
+Welcome to your  Telegram Bot Node.js !
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+This Bot api  example created bot and  how to use `Node.js`  server . => BY @HAIDER_PR 
 
-## Running the server
+## Running the BOT 
+1) one write in Terminal `git clone https://github.com/haiderprog/ProtectionBot-haiderpr && npm install`
 
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
+2) Open `Bot.js` and  go line 7 write Token from `botFather` and go line 13 write username for Telegram bot example `t.me/haider_pr` and go line 14 write id for accaonte from `@userinfobot`
 
-2) Alternatively you can launch the app from the Terminal:
+start the app by clicking on the "Run" button in the top menu.
 
-    $ node server.js
+3) and write in Terminal:
 
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+    $ node bot
+    
+if you need help vist telegram : `t.me/haider_pr`
+
+infomation in telegram : `https://t.me/programs_school`
+# ProtectionBot-haiderpr
 # ProtectionBot-haiderpr
