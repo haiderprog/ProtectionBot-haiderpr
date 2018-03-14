@@ -1,0 +1,14 @@
+{
+  "name": "HaiderPR",
+  "version": "1.0.0",
+  "description": "Telegram bot api in node.js and javascript this example You help you in working.",
+  "main": "bot.js",
+  "repository": "",
+  "author": "Haider Abbis <hedr81471@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "get-json": "^1.0.0",
+    "jsonfile": "^4.0.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
